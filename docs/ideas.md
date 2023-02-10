@@ -46,5 +46,12 @@ QuizIT es una aplicación de tipo juego donde los usuarios resolveran trivias ac
 - [Quiz](https://apps.apple.com/co/app/quiz-cultura-general-español/id714981446)
 
 
+## Idea 5: RainTravel
+
+RainTravel es una aplicacion que consumira el API del clima de google para observar en tiempo real en que lugares esta lloviendo, esto proporcionara al usuario informacion de pronosticos de lluvia y el usuario podra colocar una ruta espedifica en la app y esta le idicara en que partes del trayecto encontra lluvia, permitira a los usuarios prepararse para posibles paradas inesperadas
+
+
+
+
 
 
