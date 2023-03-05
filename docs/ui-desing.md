@@ -3,7 +3,7 @@
 # Interfaz de usuario de QuizIT 
 
 
-El diseño completoe esta disponible
+El diseño completo y el prototype esta disponible
 en [MarvelApp](https://marvelapp.com/prototype/8337757)
 
 # A continuación se presentan las principales pantallas:
