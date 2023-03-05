@@ -2,6 +2,8 @@
 
 # Interfaz de usuario de QuizIT 
 
+-> Profe disculpe que no supe como disminuir el tamaño de las imagenes
+
 
 El diseño completo y el prototype esta disponible
 en [MarvelApp](https://marvelapp.com/prototype/8337757)
